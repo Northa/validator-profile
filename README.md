@@ -58,6 +58,14 @@ Security is the key:)
   - [Konstellation](https://www.mintscan.io/konstellation/validators/darcvaloper1p83dsdyak5jfepmc3a6m3g2qkqpqlaawdphslx)
  </details>  
 
+ <details>
+  <summary>IBC relayers(partial list):</summary>  
+  
+  - [UMEE <-> Evmos](https://www.mintscan.io/umee/relayers/channel-20) evmos chain halted(last upd 9 april)
+  - soon will be updated... 
+  
+</details>  
+
 
 <details>
   <summary>Active Testnets:</summary>   
