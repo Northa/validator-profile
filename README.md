@@ -70,7 +70,8 @@ Security is the key:)
 <details>
   <summary>Active Testnets:</summary>   
   
-  - [Crescent](https://testnet.mintscan.io/crescent/validators/crevaloper1davz40kat93t49ljrkmkl5uqhqq45e0twm2n9h)
+  - [Archway](https://archway.explorers.guru/validator/archwayvaloper1gpj55hctpmxq6ne46hzdcy4s32z636nqku8frg)
+  - [Crescent](https://testnet.mintscan.io/crescent-testnet/validators/crevaloper1davz40kat93t49ljrkmkl5uqhqq45e0twm2n9h)
   - AssetMantle
   - [Kyve](https://explorer.kyve.network/korellia/staking/kyvevaloper1hrdwptkrxvpgqvv3nemk72pswy34ns3naxe8fs) Korellia testnet
   - [Kyve](https://explorer.beta.kyve.network/kyve-betanet/staking/kyvevaloper1d3vn7ymkjcf22xx47l8jt05m7t8wp26q00s726) kyve-beta testnet
