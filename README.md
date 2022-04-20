@@ -30,6 +30,13 @@ Security is the key:)
 - [Telegram bot](https://medium.com/umeeblog/rise-of-the-umeevengers-final-scores-and-closing-ceremony-f872eeba55bc) for tracking missed blocks(section Extra Contributions)
 - [Migrating Umee to cosmovisor](https://www.notion.so/yep1/Migrating-umeed-to-cosmovisor-c737b1aeeea0448ebe9b0ef04f75d1a7)  
 
+#### Archway  
+- [Telegram bot](https://t.me/archway_checkbot) - torii-testnet  
+  Features:
+  - Tracking missed blocks for a validator
+  - Get rank by missed blocks
+  - Get rank by signed blocks
+
 
 #### Evmos  
 - [Migrating Evmos to cosmovisor](https://www.notion.so/yep1/Migrating-evmosd-to-cosmovisor-fe68cfbf2c55481caa4ab8c278ffbaa3)  
@@ -68,19 +75,19 @@ Security is the key:)
 
 
 <details>
-  <summary>Active Testnets:</summary>   
+  <summary>Testnets:</summary>   
   
+  - [Galaxy](https://testnet.postcapitalist.io/Galaxy/staking/galaxyvaloper10s9sg6m9w5vjvq8rjm4f99vyjxdx24fl24xuec)
   - [Archway](https://archway.explorers.guru/validator/archwayvaloper1gpj55hctpmxq6ne46hzdcy4s32z636nqku8frg)
-  - [Crescent](https://testnet.mintscan.io/crescent-testnet/validators/crevaloper1davz40kat93t49ljrkmkl5uqhqq45e0twm2n9h)
   - AssetMantle
   - [Kyve](https://explorer.kyve.network/korellia/staking/kyvevaloper1hrdwptkrxvpgqvv3nemk72pswy34ns3naxe8fs) Korellia testnet
   - [Kyve](https://explorer.beta.kyve.network/kyve-betanet/staking/kyvevaloper1d3vn7ymkjcf22xx47l8jt05m7t8wp26q00s726) kyve-beta testnet
-  - [Evmos Testnet](https://testnet.mintscan.io/evmos-testnet/validators/evmosvaloper158wwas4v6fgcu2x3plg70s6u0fm0lle237kltr)
-  - Archway
+  - [Evmos Testnet](https://testnet.mintscan.io/evmos-testnet/validators/evmosvaloper158wwas4v6fgcu2x3plg70s6u0fm0lle237kltr) 
   - Celestia
   - Decentralized Web Services - Andromeda testnet
   - Cosmic Horizon. darkmatter-1 testnet
   - Penumbra
+  - [~~Crescent~~(finished)](https://testnet.mintscan.io/crescent-testnet/validators/crevaloper1davz40kat93t49ljrkmkl5uqhqq45e0twm2n9h)
   
  </details>
 
