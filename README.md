@@ -63,6 +63,24 @@ Security is the key:)
   - [Ki-chain](https://www.mintscan.io/ki-chain/validators/kivaloper1hsr43w9affupy8urrsxa7prj00s7f4pc7v6hak)
   - [Evmos](https://www.mintscan.io/evmos/validators/evmosvaloper133p2ksvmtlnj3e30ekrdkqgj25eaahncuj27wm)
   - [Konstellation](https://www.mintscan.io/konstellation/validators/darcvaloper1p83dsdyak5jfepmc3a6m3g2qkqpqlaawdphslx)
+  - [Galaxy](https://explorer.postcapitalist.io/galaxy/staking/galaxyvaloper10s9sg6m9w5vjvq8rjm4f99vyjxdx24fl24xuec)
+ </details>  
+ 
+ <details>
+  <summary>Testnets:</summary>   
+  
+  - [Archway](https://archway.explorers.guru/validator/archwayvaloper1gpj55hctpmxq6ne46hzdcy4s32z636nqku8frg)
+  - AssetMantle
+  - [Kyve](https://explorer.kyve.network/korellia/staking/kyvevaloper1hrdwptkrxvpgqvv3nemk72pswy34ns3naxe8fs) Korellia testnet
+  - [Kyve](https://explorer.beta.kyve.network/kyve-betanet/staking/kyvevaloper1d3vn7ymkjcf22xx47l8jt05m7t8wp26q00s726) kyve-beta testnet
+  - [Evmos Testnet](https://testnet.mintscan.io/evmos-testnet/validators/evmosvaloper158wwas4v6fgcu2x3plg70s6u0fm0lle237kltr) 
+  - Celestia
+  - Decentralized Web Services - Andromeda testnet
+  - [Cosmic Horizon darkmatter-1](https://coho.explorers.guru/validator/cohovaloper1qul7dmpaykw9eyflul0g2ypc6hcu938pw79hvk)
+  - Penumbra
+  - [~~Crescent~~(finished)](https://testnet.mintscan.io/crescent-testnet/validators/crevaloper1davz40kat93t49ljrkmkl5uqhqq45e0twm2n9h)
+  - [~~Galaxy mainnet launched~~](https://testnet.postcapitalist.io/Galaxy/staking/galaxyvaloper10s9sg6m9w5vjvq8rjm4f99vyjxdx24fl24xuec)
+  
  </details>  
 
  <details>
@@ -74,22 +92,7 @@ Security is the key:)
 </details>  
 
 
-<details>
-  <summary>Testnets:</summary>   
-  
-  - [Galaxy](https://testnet.postcapitalist.io/Galaxy/staking/galaxyvaloper10s9sg6m9w5vjvq8rjm4f99vyjxdx24fl24xuec)
-  - [Archway](https://archway.explorers.guru/validator/archwayvaloper1gpj55hctpmxq6ne46hzdcy4s32z636nqku8frg)
-  - AssetMantle
-  - [Kyve](https://explorer.kyve.network/korellia/staking/kyvevaloper1hrdwptkrxvpgqvv3nemk72pswy34ns3naxe8fs) Korellia testnet
-  - [Kyve](https://explorer.beta.kyve.network/kyve-betanet/staking/kyvevaloper1d3vn7ymkjcf22xx47l8jt05m7t8wp26q00s726) kyve-beta testnet
-  - [Evmos Testnet](https://testnet.mintscan.io/evmos-testnet/validators/evmosvaloper158wwas4v6fgcu2x3plg70s6u0fm0lle237kltr) 
-  - Celestia
-  - Decentralized Web Services - Andromeda testnet
-  - Cosmic Horizon. darkmatter-1 testnet
-  - Penumbra
-  - [~~Crescent~~(finished)](https://testnet.mintscan.io/crescent-testnet/validators/crevaloper1davz40kat93t49ljrkmkl5uqhqq45e0twm2n9h)
-  
- </details>
+
 
  <details>
   <summary>Awards:</summary>   
