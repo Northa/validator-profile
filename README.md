@@ -23,7 +23,12 @@ Security is the key:)
 <details>
   <summary>Contributions(partial list):</summary>  
   
-  #### Umee
+  
+#### Ecosystem contributions:  
+- [Consensus](https://github.com/Northa/consensus) A brief info of the state of the consensus. 
+    
+
+#### Umee
 - [Lion](https://github.com/Northa/lion) cUI blockexplorer/monitoring dashboard for Umee network(with allerts).
 - [Batch monitor](https://github.com/Northa/umee/tree/main/phase2) for umee alphamainnet
 - [UMEE vanitygen](https://github.com/Northa/cosmosvanity) Generate wallets with beautiful prefixes
