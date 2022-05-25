@@ -16,6 +16,7 @@ Secure non-custodial staking.
   - All servers protected with 2fa authentication  
   - Anti-DDoS  
   - Cloud regions and availability zones from top providers like AWS, Vultr, Azure, Digital Ocean, Hetzner  
+  - Self-writed monitoring tool. It analyzes data in real time from node side(uptime, health etc) and server(ram, disk, cpu usage, etc) and allerts if something wrong.
   
 Security is the key:)
  </details>
@@ -73,9 +74,13 @@ Security is the key:)
  
  <details>
   <summary>Testnets:</summary>   
-  
+
+  - [Axelar](https://testnet.explorer.testnet.run/axelar-testnet-2/staking/axelarvaloper1kdhnnytm3nj56w8d59yefy4tq933zaycldvuj7)
   - [Archway](https://archway.explorers.guru/validator/archwayvaloper1gpj55hctpmxq6ne46hzdcy4s32z636nqku8frg)
-  - AssetMantle
+  - [Umee umeemania testnet](https://explorer.umeemania-1.network.umee.cc/umee/staking/umeevaloper1davz40kat93t49ljrkmkl5uqhqq45e0t64rfgg)
+  - [Pylons](https://pylons-testnet-explorer.nodes.4sv.io/pylon/staking/pylovaloper18xzw9pwg29h3g82sy6a0pv2gmaln5za78aeuyy)
+  - [Deweb](https://explore.deweb.services/deweb/staking/dewebvaloper1davz40kat93t49ljrkmkl5uqhqq45e0t9s4mtq)
+  - ~~AssetMantle~~(finished)
   - [Kyve](https://explorer.kyve.network/korellia/staking/kyvevaloper1hrdwptkrxvpgqvv3nemk72pswy34ns3naxe8fs) Korellia testnet
   - [Kyve](https://explorer.beta.kyve.network/kyve-betanet/staking/kyvevaloper1d3vn7ymkjcf22xx47l8jt05m7t8wp26q00s726) kyve-beta testnet
   - [Evmos Testnet](https://testnet.mintscan.io/evmos-testnet/validators/evmosvaloper158wwas4v6fgcu2x3plg70s6u0fm0lle237kltr) 
