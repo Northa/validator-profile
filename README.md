@@ -7,7 +7,10 @@ Twitter: https://twitter.com/kmnie
 
 # Bio  
 Crypto enthusiast, investor, node runner. Python dev, devops 10+ years.  
-Secure non-custodial staking.
+Secure non-custodial staking.  
+
+
+
 
 <details>
   <summary>Architecture:</summary>   
@@ -15,10 +18,11 @@ Secure non-custodial staking.
   - Encrypted zfs  
   - All servers protected with 2fa authentication  
   - Anti-DDoS  
+  - All mainnet validators have a backup node in a different datacenter.
   - Cloud regions and availability zones from top providers like AWS, Vultr, Azure, Digital Ocean, Hetzner  
   - Self-writed monitoring tool. It analyzes data in real time from node side(uptime, health etc) and server(ram, disk, cpu usage, etc) and allerts if something wrong.
+  - Allert system. Check section screenshots in order to understand better.   
   
-Security is the key:)
  </details>
 
 <details>
@@ -32,7 +36,7 @@ Security is the key:)
 - [UMEE](https://docs.google.com/spreadsheets/d/1_e-rdoDUzW8K-9pHc5t7gKzh_qA80fYWHhsQP0lKKzU/edit?usp=sharing)
   Right after UMEE ico back in dec 2021 some of the ico participants were fail into scam and disclosed their seed phrases. Thus 3rd parties got access to the vesting accounts of umee holders. So right now me, validator Aphabet(aka Yep++#9963) in cooperation with validator @mzonder#5844 trying to "intercept" uumee from vesting accounts and return the funds to the rightful owners. Currently there are several hackers(minimum 3) so it very hard to recover funds. We now have 3-5 specifically configured rpc nodes and multithreading bot with a very complicated algoritm. Development of the algoritm and maintaining the bot is my responsibility. @mzonder providing infrastructure, collecting seed phrases and acting like support in a closed telegram channel.
 All victims were forced to pass something like KYC in order to proove they are real investors(thanks to @mzonder for managing this).
-Well as of now we **successfully recovered 106398 UMEE ~ 7500$** (1st option 0.06$, 2nd option 0.07$)
+Well as of now we **successfully recovered 106398 UMEE ~ 7500$** (1st opt `0.06$`, 2nd opt `0.07$`)
 - [EVMOS](https://discord.com/channels/809048090249134080/864168878300332082/974045249854906468)
 [Invite link](https://discord.gg/FYuEAjxWAj)
 In april 2021 me validator Aphabet(aka Yep++#9963) in cooperation with validator @mzonder#5844 helped to the Expandingspace.io validator to **recover ~16000EVMOS which is approx 50000$**. Will provide a detailed report later a bit
@@ -73,6 +77,14 @@ My part of tasks was to evaluate "Node performance" - peggo bridge uptime/node u
 - [blacklisted addrs Agent](https://github.com/Northa/cosmosHUB_sripts/tree/main/forta/comp-blacklist)
 
 </details>
+
+ <details>
+  <summary>Screenshots:</summary>   
+  <img src="https://raw.githubusercontent.com/Northa/validator-profile/main/src/mon.png" width="400" height="200">
+  <img src="https://raw.githubusercontent.com/Northa/validator-profile/main/src/allerts.jpg" width="100" height="200">
+  <img src="https://raw.githubusercontent.com/Northa/validator-profile/main/src/dicord_monitoring_bot.jpg" width="100" height="200">
+ 
+ </details>
 
 <details open>
   <summary>Mainnets:</summary>
