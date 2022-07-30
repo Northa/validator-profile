@@ -58,6 +58,7 @@ My part of tasks was to evaluate "Node performance" - peggo bridge uptime/node u
   - Tracking missed blocks for a validator
   - Get rank by missed blocks
   - Get rank by signed blocks
+  <img src="https://raw.githubusercontent.com/Northa/validator-profile/main/src/archwaytg.png" width="50" height="100">
 
 
 #### Evmos
@@ -83,7 +84,7 @@ My part of tasks was to evaluate "Node performance" - peggo bridge uptime/node u
   <img src="https://raw.githubusercontent.com/Northa/validator-profile/main/src/mon.png" width="400" height="200">
   <img src="https://raw.githubusercontent.com/Northa/validator-profile/main/src/allerts.jpg" width="100" height="200">
   <img src="https://raw.githubusercontent.com/Northa/validator-profile/main/src/dicord_monitoring_bot.jpg" width="100" height="200">
- 
+
  </details>
 
 <details open>
