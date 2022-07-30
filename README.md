@@ -99,7 +99,8 @@ My part of tasks was to evaluate "Node performance" - peggo bridge uptime/node u
  </details>
 
  <details>
-  <summary>Testnets:</summary>
+  <summary>Testnets:</summary>  
+
   - [Kyve](https://explorer.kyve.network/korellia/staking/kyvevaloper1hrdwptkrxvpgqvv3nemk72pswy34ns3naxe8fs) Korellia testnet. Actively involved in governance, tasks, challenges.
   - [Celestia](https://celestia.explorers.guru/validator/celestiavaloper1davz40kat93t49ljrkmkl5uqhqq45e0tuj2s3m) mamaki testnet. Chain is unstable so there could be many missed blocks!
   - [BlockPI closed testnet](https://testnet.explorer.blockpi.io/hypernode/0x7A8984C208e0866eeBC3A8493c9172c7a327221A)
