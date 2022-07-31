@@ -21,7 +21,11 @@ Secure non-custodial staking.
   - All mainnet validators have a backup node in a different datacenter.
   - Cloud regions and availability zones from top providers like AWS, Vultr, Azure, Digital Ocean, Hetzner  
   - Self-writed monitoring tool. It analyzes data in real time from node side(uptime, health etc) and server(ram, disk, cpu usage, etc) and allerts if something wrong.
-  - Allert system. Check section screenshots in order to understand better.   
+  - Allert system. Check screenshots in order to understand better.   
+ 
+      <img src="https://raw.githubusercontent.com/Northa/validator-profile/main/src/mon.png" width="400" height="200">
+      <img src="https://raw.githubusercontent.com/Northa/validator-profile/main/src/allerts.jpg" width="100" height="200">
+      <img src="https://raw.githubusercontent.com/Northa/validator-profile/main/src/dicord_monitoring_bot.jpg" width="100" height="200">
   
  </details>
 
@@ -79,13 +83,7 @@ My part of tasks was to evaluate "Node performance" - peggo bridge uptime/node u
 
 </details>
 
- <details>
-  <summary>Screenshots:</summary>   
-  <img src="https://raw.githubusercontent.com/Northa/validator-profile/main/src/mon.png" width="400" height="200">
-  <img src="https://raw.githubusercontent.com/Northa/validator-profile/main/src/allerts.jpg" width="100" height="200">
-  <img src="https://raw.githubusercontent.com/Northa/validator-profile/main/src/dicord_monitoring_bot.jpg" width="100" height="200">
 
- </details>
 
 <details open>
   <summary>Mainnets:</summary>
