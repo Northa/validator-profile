@@ -34,7 +34,9 @@ Secure non-custodial staking.
   
   
 #### Ecosystem contributions:  
-- [Consensus](https://github.com/Northa/consensus) A brief info of the state of the consensus. 
+- [Consensus](https://github.com/Northa/consensus)  A brief info of the state of the consensus.  
+  <img src="https://img.shields.io/github/stars/Northa/consensus">
+  <img src="https://img.shields.io/github/forks/Northa/consensus">
 
 #### Wallet recover contributions:
 - [UMEE](https://docs.google.com/spreadsheets/d/1_e-rdoDUzW8K-9pHc5t7gKzh_qA80fYWHhsQP0lKKzU/edit?usp=sharing)
