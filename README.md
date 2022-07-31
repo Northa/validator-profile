@@ -52,7 +52,8 @@ In april 2021 me validator Aphabet(aka Yep++#9963) in cooperation with validator
 - [Member of 1st Validator DAO Committee](https://docs.umee.cc/umee-validator-dao/validator-dao-committee)
 My part of tasks was to evaluate "Node performance" - peggo bridge uptime/node uptime/jails/missed/signed blocks
 [Proof](https://discord.com/channels/815699313581490196/940268469285449809/987071631627272222) [Invite](https://discord.gg/TvhKj29FZ7)
-- [Lion](https://github.com/Northa/lion) cUI blockexplorer/monitoring dashboard for Umee network(with allerts).
+- [Lion](https://github.com/Northa/lion) cUI blockexplorer/monitoring dashboard for Umee network(with allerts).  
+  <img src="https://img.shields.io/github/stars/Northa/lion"><img src="https://img.shields.io/github/forks/Northa/lion">
 - [Batch monitor](https://github.com/Northa/umee/tree/main/phase2) for umee alphamainnet
 - [UMEE vanitygen](https://github.com/Northa/cosmosvanity) Generate wallets with beautiful prefixes
 - [Telegram bot](https://medium.com/umeeblog/rise-of-the-umeevengers-final-scores-and-closing-ceremony-f872eeba55bc) for tracking missed blocks(section Extra Contributions)
